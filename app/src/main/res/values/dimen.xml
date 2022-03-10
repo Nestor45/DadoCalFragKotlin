@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="valor_size">36sp</dimen>
+    <dimen name="margen_btn">24dp</dimen>
+    <dimen name="padding_btn">20dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>
